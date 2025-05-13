@@ -30,7 +30,7 @@ nltk==3.9.1
 numpy==1.23.5
 oauthlib==3.2.2
 packaging==25.0
-pandas==2.2.3
+pandas==1.5.0  # Updated pandas version
 pillow==11.2.1
 proto-plus==1.26.1
 protobuf==3.20.3

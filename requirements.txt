@@ -27,7 +27,7 @@ MarkupSafe==3.0.2
 mdurl==0.1.2
 narwhals==1.38.0
 nltk==3.9.1
-numpy==1.23.5
+numpy==1.24.0
 oauthlib==3.2.2
 packaging==25.0
 pandas==1.5.0   # Downgraded pandas
